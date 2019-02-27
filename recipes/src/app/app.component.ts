@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { select, selectAll } from 'd3-selection';
 
 @Component({
   selector: 'app-root',
